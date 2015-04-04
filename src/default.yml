@@ -1,0 +1,12 @@
+Color: '&f'
+MatInGUI: 'DIAMOND'
+FunCannonProjectile: 'SNOWBALL'
+PlayersInvisibleOnHit: true
+ParticleEffects:
+  - 'EXPLOSION_NORMAL 0.5 0.5 0.5 0.4 4'
+  - 'LAVA 0.5 0.5 0.5 0.2 10'
+  - 'FLAME 1.0 1.0 1.0 0.2 15'
+InteractSounds: 
+  - 'FIZZ 0.5 0.5'
+HitSounds:
+  - 'EXPLODE 0.5 0.5'

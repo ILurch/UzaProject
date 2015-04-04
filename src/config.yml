@@ -1,0 +1,13 @@
+Settings:
+  Prefix: '&7[&cF&eU&aN&7] &r'
+  Cooldown: 5
+  Worlds: 
+    - yourworld
+Item:
+  Slot: 0
+  ID: 369
+  Name: '&4F&6u&en&2C&3a&5n&4n&5o&en'
+  Lore:
+    Line1: '&cAwesome!'
+    Line2: '&cShoot it!'
+  Modes: 'The sounds and effects will saved for different modes just take a look in FunCannon/modes'

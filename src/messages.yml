@@ -1,0 +1,15 @@
+# Don't use ä/ü/ö, you have to replace them with Hex codes: http://mindprod.com/jgloss/ascii.html
+
+Permissions: '&cYou dont have Permission!'
+UnknownCommand: '&cUnknown Command!'
+EnabledWorld: '&aYou have succesfully enabled the %itemname% §ain your current world!'
+DisabledWorld: '&aYou have succesfully disabled the %itemname% &ain your current world!'
+PlayerIsNotOnline: '&cThis Player is not online!'
+YourStats: '&aYou have used the %itemname% &c %usedTimes% &atimes! And you have hitted &c%hittedPlayers% &aPlayers!'
+OthersStats: '&a%playername% used the %itemname% &c %usedTimes% &atimes! And hitted &c%hittedPlayers% &aPlayers!'
+PlayerNotFound: '&cThis Player could not be found in the Config'
+WaitingTime: '&cYou have to wait to use this item!'
+Shooted: '&cYou shot &a%playername% §cwith the %itemname%&c!'
+GotShooted: '&cYou were shot by &a%playername% &cwith the %itemname%&c, now you are invisble for him for a few seconds!'
+ModeSelected: '&aYou have selected the &c%mode% &amode!'
+ModeNotFound: '&aThis mode could not be found!'

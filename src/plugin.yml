@@ -1,0 +1,10 @@
+name: FunCannon
+version: 1.6.5-SNAPSHOT
+authors: [ILurch, Luki110998]
+main: de.lurch.funcannon.plugin.FunCannonPlugin
+
+commands:
+  funcannon:
+    usage: /funcannon
+    description: The FunCannon Command
+    aliases: [fc]
